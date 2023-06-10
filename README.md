@@ -19,7 +19,7 @@ Past projects:  <ul class="past-projects">
 
 <hr>
 
-My stack: <br> 
+My stack: <br/> 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30"/> 
 <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoWidth=30"/>
@@ -27,3 +27,5 @@ My stack: <br>
 <img src="https://img.shields.io/badge/-c%20sharp-239120?logo=csharp&logoColor=white&style=for-the-badge&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=30"/>
 
+Learning: <br/>
+<img src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=30"/> 
