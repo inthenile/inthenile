@@ -9,10 +9,10 @@
 <hr>
 
 Currently working on: <ul class="current-projects">
-                        <li><a href="https://github.com/S-EgeCaliskan/chirper"> A Twitter-clone </a>made with the <strong>Django framework</strong></li>
                         <li><a href="https://github.com/S-EgeCaliskan/mytwitchbot"> A Twitch bot</a>, practising asynchronous Python with the TwitchIO library - working with YouTube API</li>
                       </ul>
 Past projects:  <ul class="past-projects">
+                  <li><a href="https://github.com/S-EgeCaliskan/chirper"> A Twitter-clone </a>made with the <strong>Django framework</strong></li>
                   <li><a href="https://github.com/S-EgeCaliskan/bouncy-2.0"> Flappy Bird clone </a><strong>with C# & Unity Engine</strong></li>
                 </ul>
 
