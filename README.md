@@ -9,8 +9,8 @@
 <hr>
 
 Currently working on: <ul class="current-projects">
-                        <li><strong>Django framework</strong>, making<a href="https://github.com/S-EgeCaliskan/chirper"> a Twitter-clone </a></li>
-                        <li>Asynchronous Python with TwitchIO, making <a href="https://github.com/S-EgeCaliskan/mytwitchbot"> a Twitch bot </a></li>
+                        <li><a href="https://github.com/S-EgeCaliskan/chirper"> A Twitter-clone </a>made with the <strong>Django framework</strong></li>
+                        <li><a href="https://github.com/S-EgeCaliskan/mytwitchbot"> A Twitch bot </a>, practising asynchronous Python with the TwitchIO library</li>
                       </ul>
 Past projects:  <ul class="past-projects">
                   <li><strong>C# & Unity Engine</strong>: <a href="https://github.com/S-EgeCaliskan/chirper"> a Flappy Bird clone </a></li>
