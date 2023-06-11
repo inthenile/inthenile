@@ -28,4 +28,6 @@ My stack: <br/>
 <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=30"/>
 
 Learning: <br/>
-<img src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=30"/> 
+<img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&logoWidth=30"/>
+<img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&logoWidth=30"/>
+<img src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&logoWidth=30"/>
