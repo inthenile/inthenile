@@ -1,4 +1,4 @@
-### Hi, I'm Salim - a problem-solver without an IT background
+### Hi, I'm Salim - a programming-enthusiast without an IT background
 
 <div class=socials>
   <a href="https://www.linkedin.com/in/salim-caliskan-724811273/">
