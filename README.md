@@ -37,5 +37,4 @@ Familiar with: <br/>
 
 Learning: <br/>
 <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&logoWidth=30"/>
-<img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&logoWidth=30"/>
