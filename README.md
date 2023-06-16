@@ -9,7 +9,7 @@
 <hr>
 
 Currently working on: <ul class="current-projects">
-                        <li><a href="https://github.com/S-EgeCaliskan/mytwitchbot"> A Twitch bot</a>, practising <strong>asynchronous Python</strong> with the TwitchIO library - working with YouTube API</li>
+                        <li><a href="https://github.com/S-EgeCaliskan/mytwitchbot"> A Twitch bot</a>, practising <strong>asynchronous Python</strong> with the TwitchIO library - implementing Spotify API</li>
                       </ul>
 Past projects:  <ul class="past-projects">
                   <li><a href="https://github.com/S-EgeCaliskan/chirper-django"> A Twitter-clone </a>made with the <strong>Django framework</strong></li>
