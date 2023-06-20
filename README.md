@@ -40,3 +40,4 @@ Familiar with: <br/>
 Learning: <br/>
 <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&logoWidth=30"/>
+<img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&logoWidth=30"/>
