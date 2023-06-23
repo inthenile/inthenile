@@ -9,6 +9,7 @@
 <hr>
 
 Currently working on: <ul class="current-projects">
+                        <li> <a href="https://github.com/S-EgeCaliskan/poetry"> Poetry </a>, a SPA that makes API requests via user input and displays poem results, implementing <a href="https://github.com/thundercomb/poetrydb"> poetrydb </a>.</li>
                         <li><a href="https://github.com/S-EgeCaliskan/mytwitchbot"> A Twitch bot</a>, practising <strong>asynchronous Python</strong> with the TwitchIO library - implementing Spotify API</li>
                       </ul>
 Past projects:  <ul class="past-projects">
