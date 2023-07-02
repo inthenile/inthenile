@@ -35,7 +35,6 @@ Familiar with: <br/>
 <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-c%20sharp-239120?logo=csharp&logoColor=white&logoWidth=30"/>
-<img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30"/>
 
 
 Learning: <br/>
