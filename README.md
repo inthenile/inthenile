@@ -24,10 +24,11 @@ Past projects:  <ul class="past-projects">
 My stack: <br/> 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30"/> 
 <img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=for-the-badge&logoWidth=30"/>
-<img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=30"/>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge&logoWidth=30"/>
+<img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=30"/>
+
 
 
 
