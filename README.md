@@ -1,4 +1,4 @@
-### Hi, I'm Salim - a programming-enthusiast without an IT background
+## Hey there, Salim here
 
 <div class=socials>
   <a href="https://www.linkedin.com/in/salim-caliskan-724811273/">
