@@ -36,3 +36,7 @@ My stack: <br/>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge&logoWidth=50"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=50"/> 
 <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=50"/>
+
+Familiar with: <br/>
+
+<img src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=for-the-badge&logoWidth=50"/>
