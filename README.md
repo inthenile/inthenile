@@ -3,12 +3,12 @@
   
 
 
-Skills:
+Skills: <br>
 <img src="https://img.shields.io/badge/React-white?logo=React&color=black" height="25px"> 
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&color=black" height="25px"> 
 <img src="https://img.shields.io/badge/HTML-white?logo=html5&color=white" height="25px"> 
 <img src="https://img.shields.io/badge/CSS-white?logo=css3&color=blue" height="25px"> 
-<img src="https://img.shields.io/badge/jQuery-white?logo=jQuery&color=blue" height="25px"> 
+
 
 <hr>
 
