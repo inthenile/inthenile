@@ -4,11 +4,14 @@
 
 
 Skills: <br>
-<img src="https://img.shields.io/badge/React-white?logo=React&color=black" height="25px"> 
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&color=black" height="25px"> 
-<img src="https://img.shields.io/badge/HTML-white?logo=html5&color=white" height="25px"> 
-<img src="https://img.shields.io/badge/CSS-white?logo=css3&color=blue" height="25px"> 
+<img src="https://img.shields.io/badge/React-white?logo=React&logoColor=blue" height="25px"> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" height="25px"> 
+<img src="https://img.shields.io/badge/HTML-white?logo=html5&logoColor=orange" height="25px"> 
+<img src="https://img.shields.io/badge/CSS-white?logo=css3&logoColor=blue" height="25px"> 
 
+Learning: <br>
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="25px"> 
+<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" height="25px"> 
 
 <hr>
 
