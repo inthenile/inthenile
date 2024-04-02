@@ -1,7 +1,7 @@
 
 ### Hey there, I'm Salim
   
-
+#### Visit my portfolio <a href="https://inthenile.github.io/myportfolio/"> here! </a>
 
 Skills: <br>
 <img src="https://img.shields.io/badge/React-white?logo=React&logoColor=blue" height="25px"> 
