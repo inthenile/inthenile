@@ -10,7 +10,7 @@ Skills: <br>
 <img src="https://img.shields.io/badge/CSS-white?logo=css3&logoColor=blue" height="25px"> 
 
 Learning: <br>
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="25px"> 
+<img src="https://img.shields.io/badge/C%23%20-purple?logo=csharp&logoColor=white" height="25px"> 
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" height="25px"> 
 
 <hr>
