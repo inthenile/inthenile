@@ -5,9 +5,11 @@
 
 Skills: <br>
 <img src="https://img.shields.io/badge/React-white?logo=React&logoColor=blue" height="25px"> 
+<img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" height="25px"> 
 <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" height="25px"> 
 <img src="https://img.shields.io/badge/HTML-white?logo=html5&logoColor=orange" height="25px"> 
 <img src="https://img.shields.io/badge/CSS-white?logo=css3&logoColor=blue" height="25px"> 
+<img src="https://img.shields.io/badge/Git-white?logo=git&logoColor=orange" height="25px"> 
 
 Learning: <br>
 <img src="https://img.shields.io/badge/C%23%20-purple?logo=csharp&logoColor=white" height="25px"> 
